@@ -11,6 +11,9 @@ Official Repo
 # ESP32 Link
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
+# Link to Follow for setting up ESP32 with Arduino
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
 # Steps
 1. Install Libraries from Library Manager
 2. Configure ESP32 in Arduino
