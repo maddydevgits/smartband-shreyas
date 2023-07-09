@@ -55,7 +55,7 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
    </tr>
 </table>
 
-# Buttons, LED, Sensor
+# Buttons, LED, Sensor, Buzzer
 <table>
    <tr>
       <th>S.No</th>
