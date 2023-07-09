@@ -51,6 +51,65 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
    <tr>
       <td>4</td>
       <td>SDA</td>
-      <td>SDA</td>
+      <td>D22</td>
+   </tr>
+</table>
+
+# Buttons, LED, Sensor
+<table>
+   <tr>
+      <th>S.No</th>
+      <th>Name of Pin</th>
+      <th>Where it is Connected</th>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>Start Button</td>
+      <td>D2</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>Stop Button</td>
+      <td>D5</td>
+   </tr>
+   <tr>
+      <td>3</td>
+      <td>RED LED</td>
+      <td>D32</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>GREEN LED</td>
+      <td>D33</td>
+   </tr>
+   <tr>
+      <td>5</td>
+      <td>Sensor</td>
+      <td>D34</td>
+   </tr>
+   <tr>
+      <td>6</td>
+      <td>3.3V</td>
+      <td>3V3</td>
+   </tr>
+   <tr>
+      <td>7</td>
+      <td>GND</td>
+      <td>GND</td>
+   </tr>
+   <tr>
+      <td>8</td>
+      <td>Lo+</td>
+      <td>D18</td>
+   </tr>
+   <tr>
+      <td>9</td>
+      <td>Lo-</td>
+      <td>D19</td>
+   </tr>
+   <tr>
+      <td>10</td>
+      <td>Buzzer</td>
+      <td>D23</td>
    </tr>
 </table>
