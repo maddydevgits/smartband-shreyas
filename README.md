@@ -24,4 +24,33 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
 7. You should able to view the Sensory Data on App
 8. Click Evaluate for AI Recommendations
 
-   
+# Connections
+
+# OLED Display
+<table>
+   <tr>
+      <th>S.No</th>
+      <th>Name of Pin</th>
+      <th>Where it is Connected</th>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>Vcc</td>
+      <td>Vin</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>Gnd</td>
+      <td>Gnd</td>
+   </tr>
+   <tr>
+      <td>3</td>
+      <td>SCK</td>
+      <td>D21</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>SDA</td>
+      <td>SDA</td>
+   </tr>
+</table>
