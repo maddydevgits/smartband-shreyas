@@ -26,6 +26,8 @@ https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-window
 7. You should able to view the Sensory Data on App
 8. Click Evaluate for AI Recommendations
 
+9. For Serial Plotter, Tools -> Port -> COMX and Tools -> Board -> ESP32 Arduino -> Node32s
+
 # Connections
 
 # OLED Display
