@@ -3,6 +3,8 @@ Official Repo
 
 # Tools
 1. Arduino 1.8.19
+2. http://ai2.appinventor.mit.edu
+3. https://www.thingspeak.com
 
 # Libraries
 1. Adafruit SSD1306
