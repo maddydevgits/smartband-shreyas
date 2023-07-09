@@ -21,7 +21,7 @@ Adafruit_SSD1306 display(-1);
 char* ssid="Smart Band";
 char* password="1234567890";
 
-char* apikey="3AMGXO1YIBDBQI8I";
+char* apikey=""; // Write your API Key Here
 unsigned int channelid=2215158;
 
 WiFiClient client;
